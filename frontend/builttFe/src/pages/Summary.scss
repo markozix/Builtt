@@ -1,0 +1,27 @@
+.Summary {
+  background: #a9adb1;
+  color: black;
+}
+
+.paymentInfo {
+  font-size: 10px;
+  margin-left: 25px;
+  margin-top: -17px;
+  text-align: left;
+}
+
+.ButtonHolder {
+  text-align-last: center;
+
+  .PayButton {
+    color: white !important;
+    background: black !important;
+    border-radius: 20px !important;
+    margin-bottom: 50px !important;
+    margin-top: 10px !important;
+  }
+}
+
+.Title {
+  text-align: left;
+}

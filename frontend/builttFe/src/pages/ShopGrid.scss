@@ -1,0 +1,19 @@
+.ShopGrid {
+  color: black;
+
+  .TitleAndNumber {
+    display: flex;
+    flex-direction: row;
+
+    .Title {
+      font-size: 16px;
+      font-weight: bold;
+    }
+
+    .Number {
+      margin-top: 23px;
+      margin-left: 8px;
+      font-size: 10px;
+    }
+  }
+}

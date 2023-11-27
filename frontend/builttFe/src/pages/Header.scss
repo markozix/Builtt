@@ -1,0 +1,15 @@
+.Cart {
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+
+  .CartIcon {
+    :hover {
+      cursor: pointer;
+    }
+  }
+}
+
+.header {
+  background-color: #a9adb1 !important;
+}

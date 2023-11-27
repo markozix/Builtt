@@ -1,0 +1,33 @@
+.CartListItem {
+  color: black;
+}
+
+.ButtonGroup {
+  height: 25px;
+}
+
+.Number {
+  margin: 3px 5px;
+}
+
+.ProductInfo {
+  display: flex !important;
+  flex-direction: row;
+  border-bottom: 1px #a9adb1 solid;
+}
+
+.ProductImage {
+  max-width: 100px;
+}
+
+.ButtonPlusMinus {
+  background: white !important;
+  color: black !important;
+  border: unset !important;
+}
+
+.UkloniBtn {
+  color: black !important;
+  text-decoration: underline !important;
+  margin-left: 10px !important;
+}

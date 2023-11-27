@@ -1,0 +1,30 @@
+
+.CardContent {
+  position: relative;
+
+  .ButtonGroup {
+    position: absolute;
+    height: 15px;
+    top: 1%;
+    box-shadow: unset !important;
+
+    .ButtonPlusMinus {
+      color: black;
+      background: #afa5a5;
+      border-right: unset !important;
+      border-color: unset !important;
+    }
+
+    .Number {
+      margin: 0 5px 2px;
+    }
+
+    .AddToCart {
+      margin-top: -6px;
+      margin-left: 5px;
+      :hover {
+        cursor: pointer;
+      }
+    }
+  }
+}

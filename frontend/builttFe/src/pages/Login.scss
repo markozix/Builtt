@@ -1,0 +1,11 @@
+.LoginForm {
+  color: black;
+  display: flex !important;
+  flex-direction: column;
+  width: 50% !important;
+
+  .LoginButton {
+    margin-top: 10px;
+    background: black;
+  }
+}
