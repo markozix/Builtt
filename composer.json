@@ -1,0 +1,17 @@
+{
+    "name": "marko/builtt",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marko Vukicevic",
+            "email": "marko.z.vukicevic@gmail.com"
+        }
+    ],
+    "require": {
+        "php-di/php-di": "*"
+    }
+}
