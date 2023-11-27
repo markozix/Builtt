@@ -16,3 +16,6 @@ create table products
 );
 
 In folder frontend -> builttFe run npm install if needed, then npm run dev to run local server
+
+email: test@gmail.com
+password: test
